@@ -1,0 +1,19 @@
+{
+  "name": "Slicing.Editor",
+  "references": [
+    "Slicing.Runtime",
+    "Slicing.Core",
+    "Slicing.Data"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
